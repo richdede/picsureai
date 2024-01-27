@@ -113,6 +113,10 @@ Building a modern and minimalistic design taught me about the importance of desi
 
 Overall, this project was a great learning experience that helped me improve my web development skills and gain a better understanding of the technologies involved.
 
+### Contact
+
+If you want to contact with me you can reach me at [LinkedIn](https://www.linkedin.com/in/dee-prince-dede-970913217/).
+
 ## Getting Started
 
 ### Prerequisites
@@ -146,7 +150,3 @@ npm start
 # In a separate terminal window, start the React development server for the client
 cd ../client
 npm start
-
-### Contact
-
-If you want to contact with me you can reach me at [LinkedIn](https://www.linkedin.com/in/dee-prince-dede-970913217/).
